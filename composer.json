@@ -1,0 +1,11 @@
+{
+    "version": "1.0.0",
+    "name": "nawado/myorm",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Nawado\\Myorm\\": "src/"
+        }
+    },
+    "require": {}
+}
